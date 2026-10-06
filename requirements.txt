@@ -1,0 +1,7 @@
+yake
+spacy
+pandas
+requests
+transformers
+sentencepiece
+torch
